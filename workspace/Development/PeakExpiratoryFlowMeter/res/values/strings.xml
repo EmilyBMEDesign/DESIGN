@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Peak Flow Meter</string>
+    <string name="hold_button">Hold Button</string>
+    <string name="flow_value">Flow\nValue</string>
+
+</resources>
